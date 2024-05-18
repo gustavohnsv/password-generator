@@ -59,7 +59,7 @@ Se você deseja contribuir com este projeto, siga os passos abaixo:
 5. Abra um Pull Request.
 
 ## 📜 Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença GNU General Public License. Veja o arquivo LICENSE para mais detalhes.
 
 ## 📞 Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato.
