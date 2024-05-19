@@ -46,7 +46,8 @@ npm run dev
 
 1. Abra seu navegador e navegue até http://localhost:5173.
 2. Utilize a interface para gerar uma senha customizável de acordo com suas necessidades.
-Hospedagem
+
+## 🛜 Hospedagem
 Este projeto está hospedado no Netlify. Você pode acessá-lo diretamente através do link do site na descrição.
 
 ## 🌐 Contribuição
